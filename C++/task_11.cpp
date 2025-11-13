@@ -1,12 +1,3 @@
-/*
-Samir Galiev, NKAbd-02-25, 10:38
-Vol. 11. Task 2(upd: task 2, Vol. 8): 
-Подсчитать, сколько раз встречается в заданной целочисленной матрице A(N,M) максимальное по величине число.
-*/
-
-
-
-
 #include <iostream>
 #include <vector>
 using namespace std;
